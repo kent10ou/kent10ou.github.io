@@ -76,7 +76,7 @@ var styles = StyleSheet.create({
 });
 {% endhighlight %}
 
-T
+The Stylesheet uses something called flexbox. I think of it pretty similar to bootstrap, except it's not in a grid system. 
 
 
 
