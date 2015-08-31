@@ -7,3 +7,5 @@ While working on our neo4j project, we encountered a bunch of git issues. This b
 
 ## Git Rebase and Merge
 One thing to keep in mind.. git rebase & git merge essentially do the same thing. They take changes from one branch and combine it with another branch, but they do it very differently. 
+
+Git Merge will 
