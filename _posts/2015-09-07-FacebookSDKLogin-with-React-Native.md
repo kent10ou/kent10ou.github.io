@@ -7,5 +7,5 @@ title: FacebookSDKLogin with React Native
 
 <p>Before we start, make sure you have successfully created a new React Native project. Next, take a look at this getting started guide and the repo for downloading and installing Facebook SDK frameworks for iOS - <a href="https://developers.facebook.com/docs/ios/getting-started">getting started guide</a> and <a href="https://github.com/facebook/react-native-fbsdk/">Github repo</a>.</p>
 
-<p>Next, follow the instructions in the getting started guide to create a new Facebook app and adding their SDK to your project.
+<p>Next, follow the instructions in the getting started guide to create a new Facebook app and adding their SDK to your project. 
 
