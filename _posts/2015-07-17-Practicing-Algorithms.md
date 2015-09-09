@@ -17,4 +17,4 @@ While I am still struggling to write algorithms that outputs the results correct
 * <a href='https://projecteuler.net/'>https://projecteuler.net/</a>  
 * <a href='https://www.topcoder.com/'>http://www.topcoder.com/ (you can get paid to solve problems!)</a>  
 * <a href='https://www.hackerrank.com/'>https://www.hackerrank.com/</a>  
-* <a href='https://www.codewars.com/'>https://www.codewars.com/</a>   
+
