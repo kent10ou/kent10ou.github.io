@@ -31,7 +31,7 @@ Then open the index.ios.js file and edit some lines. Hit ⌘-R to build and run 
 {% highlight javascript %}
 'use strict';
 var React = require('react-native');
-{% endhightlight %}
+{% endhighlight %}
 
 <p>All files in React Native will consist of a few basic parts. It uses strict mode to enable better error handling. The second line is what loads the react-native modules.</p>
 
