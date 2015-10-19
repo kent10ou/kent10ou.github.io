@@ -13,7 +13,7 @@ subtitle: "Git Merge && Git Rebase"
 
 <p>For example, if you start working on a new feature in a branch, and another teammate updates the master branch with new commits. This results in a forked history.</p>
 
-<img src="img/git-merge-01.jpg" alt="01">
+<img src="{{ site.baseurl }}/img/git-merge-01.jpg" alt="fork">
 
 <p>So now we have two options to merge the changes. merging or rebasing</p>
 
