@@ -59,6 +59,6 @@ This moves the entire feature branch in front of the master branch. Rebase rewri
 
 <p>The rebase will move all of the commits in master onto the tip of the feature branch. However, all of this will only happen in your repository, while everyone else is still on the original master.</p>
 
-<p>Please refer to this link for a more in depth look at git merge and git rebase. <a href="https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough">Click Here!</a></p>
+<p>Please refer to this Atlassian tutorial for a more in depth look at git merge and git rebase. <a href="https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough">Click Here!</a></p>
 
 
