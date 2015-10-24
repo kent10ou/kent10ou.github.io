@@ -38,7 +38,7 @@ CREATE (a)-[r:IS_FRIENDS_WITH]->(b)
 RETURN r
 {% endhighlight %}
 
-<img src="{{ site.baseurl }}/img/neo4j_01.jpg" alt="friends">
+<img src="{{ site.baseurl }}/img/Neo4j_01.jpg" alt="friends">
 
 ## Other things
 <p>There are other ways to load data into the Neo4j database. For example, we gathered our data into a csv file and loaded into the database that way.</p>
