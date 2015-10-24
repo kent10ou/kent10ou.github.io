@@ -50,7 +50,7 @@ RETURN r
 ## Final Words
 <p>Overall, it was a great experience! Learning to integrate a new database was a fun project and I would recommmend others to try it out.</p>
 
-<p>Please refer to the Neo4j Documentation for other query commands <a href='http://neo4j.com/docs/'>HERE</a>!!!!!
+<p>Please refer to the Neo4j Documentation for other query commands <a href='http://neo4j.com/docs/'>HERE</a>!!!!!</p>
 
 
 
