@@ -40,13 +40,18 @@ RETURN r
 
 <img src="{{ site.baseurl }}/img/neo4j_01.jpg" alt="friends">
 
-## 
+## Other things
+<p>There are other ways to load data into the Neo4j database. For example, we gathered our data into a csv file and loaded into the database that way.</p>
 
 <p>One issue that we ran into while working on our project is having to deal with duplicate players. For example, when a player is traded to a different team in the season. They show up in multiple teams and are not connecting. Another issue that we're running into is having to deal with the aspect of time. A player will stay with a team for multiple seasons and to overcome this we have to create the same team nodes for every season. Thereby creating too many team nodes.</p>
 
+<p>We were able to solve this by using the "MERGE" command. This found all the nodes with similar names and combined it into one. However, we left the teams separate because the teams vary from each year.</p>
 
+## Final Words
+<p>Overall, it was a great experience! Learning to integrate a new database was a fun project and I would recommmend others to try it out.</p>
 
-<p>Please refer to the Neo4j Documentation for other query commands <a href='http://neo4j.com/docs/'>HERE</a>
+<p>Please refer to the Neo4j Documentation for other query commands <a href='http://neo4j.com/docs/'>HERE</a>!!!!!
+
 
 
 
