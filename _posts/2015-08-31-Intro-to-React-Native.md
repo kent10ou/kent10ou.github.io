@@ -26,8 +26,8 @@ react-native init ProjectName
 <p>Once the process is done, head into the folder and open the Xcode project.
 Then open the index.ios.js file and edit some lines. Hit ⌘-R to build and run the simulator in Xcode. Press ⌘-D to enable debugging in Chrome.</p>
 
-##The Different Parts of the Index
-<p>When I first tested out React Native, I was surprised to see such a simple codebase. It seems that React is doing the majority of in the background.</p>
+##The Basics
+<p>When I first tested out React Native, I was surprised to see such a simple codebase. It seems that React is doing the majority of the work in the background.</p>
 
 {% highlight javascript %}
 'use strict';
@@ -36,7 +36,21 @@ var React = require('react-native');
 
 <p>All files in React Native will consist of a few basic parts. It uses strict mode to enable better error handling. The second line is what loads the react-native modules.</p>
 
-<p>
+<p>The next component that we will often see is called the destructuring assignment. We set all the elements that are needed to the variable 'React'. This will simplify the code later so we won't have to type 'React.element' everytime.</p>
+
+{% highlight javascript %}
+var {
+	AppRegistry,
+  StyleSheet,
+  Text,
+  View,
+  TouchableHighlight,
+  Component,
+  AlertIOS
+}
+{% endhighlight %}
+
+##Styling
 
 
 
