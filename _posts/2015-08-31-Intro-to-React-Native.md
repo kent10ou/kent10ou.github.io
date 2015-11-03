@@ -51,8 +51,32 @@ var {
 {% endhighlight %}
 
 ##Styling
+<p>How we're styling the app is with the Stylesheet. It uses CSS like styling for our view components. Not all CSS attributes are available, but it's enough to create a good looking view. What's great is we can put the stylesheet right into the js file we're working on. Here's an example:</p>
 
+{% highlight javascript %}
+var styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#FFFFFF'
+  },
+  buttonText: {
+    fontSize: 18,
+    color: 'white',
+    alignSelf: 'center'
+  },
+  button: {
+    height: 44,
+    flexDirection: 'row',
+    backgroundColor: '#48BBEC',
+    alignSelf: 'stretch',
+    justifyContent: 'center'
+  }
+});
+{% endhighlight %}
 
+T
 
 
 
