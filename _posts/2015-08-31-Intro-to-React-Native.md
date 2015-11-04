@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intro to React Native!
+header-img: "img/react_native_01.png"
 ---
 
 ##React Native!
@@ -81,6 +82,7 @@ var styles = StyleSheet.create({
 <p>For more information regarding the JavaScript layout, go to <a href="https://github.com/facebook/css-layout">Facebook's repo of CSS layout</a>. Also, check out Krawaller's blog, for a React app that demonstrates CSS3 flexbox <a href="http://blog.krawaller.se/posts/a-react-app-demonstrating-css3-flexbox/">here</a>.</p>
 
 ##Component
+
 
 
 
