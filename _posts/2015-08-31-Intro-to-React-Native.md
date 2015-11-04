@@ -76,7 +76,15 @@ var styles = StyleSheet.create({
 });
 {% endhighlight %}
 
-The Stylesheet uses something called flexbox. I think of it pretty similar to bootstrap, except it's not in a grid system. 
+<p>The Stylesheet uses something called flexbox. I think of it pretty similar to bootstrap, except it's not in a grid system. When using flexbox, we can arrange the children of a container vertically or horizontally. By default, the children are arranged vertically, or the flex direction is set to 'column'. If we want the children arranged horizontally, set the flex direction to 'row'.</p>
+
+<p>For more information regarding the JavaScript layout, go to <a href="https://github.com/facebook/css-layout">Facebook's repo of CSS layout</a>. Also, check out Krawaller's blog, for a React app that demonstrates CSS3 flexbox <a href="http://blog.krawaller.se/posts/a-react-app-demonstrating-css3-flexbox/">here</a>.</p>
+
+##Component
+
+
+
+
 
 
 
