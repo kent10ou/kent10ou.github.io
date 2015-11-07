@@ -9,5 +9,6 @@ title: FacebookSDKLogin with React Native
 
 <p>Next, follow the instructions in the getting started guide to create a new Facebook app and adding their SDK to your project.</p>
 
+<p>This is the format that my project manager follows in XCode.</p>
 <img src="{{ site.baseurl }}/img/rctfbsdk_01.png" alt="fbsdk_link">
 
