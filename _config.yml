@@ -11,11 +11,11 @@ tagline:          'My Personal Blog'
 description:      'My Personal Blog For All The Things!'
 url:              kent10ou.github.io
 baseurl:          /
+twitter:          'https://twitter.com/kent10ou'
+linkedin:         https://linkedin/com/in/kent10ou
 
 author:
   name:           'Kent Ou'
-  twitter:        https://twitter.com/kent10ou
-  linkedin:       https://linkedin/com/in/kent10ou
 
 paginate:         5
 
