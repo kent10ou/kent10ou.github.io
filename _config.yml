@@ -8,13 +8,14 @@ permalink:        pretty
 # Setup
 title:            Kent Ou
 tagline:          'My Personal Blog'
-description:      ''
+description:      'My Personal Blog For All The Things!'
 url:              kent10ou.github.io
 baseurl:          /
 
 author:
   name:           'Kent Ou'
-  url:            https://twitter.com/kent10ou
+  twitter:        https://twitter.com/kent10ou
+  linkedin:       https://linkedin/com/in/kent10ou
 
 paginate:         5
 
