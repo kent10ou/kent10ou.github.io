@@ -11,8 +11,6 @@ tagline:          'My Personal Blog'
 description:      ''
 url:              kent10ou.github.io
 baseurl:          /
-params:
-  themeColor: "theme-base-09"
 
 author:
   name:           'Kent Ou'
