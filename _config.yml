@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Kent Ou
 tagline:          'My Personal Blog'
 description:      ''
-url:              http://hyde.getpoole.com
+url:              http://kent10ou.github.io
 baseurl:          /
 params:
   themeColor: "theme-base-09"
