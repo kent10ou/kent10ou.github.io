@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Kent Ou's Blog
+# Welcome!
 
 ## Still under maintenance
 
