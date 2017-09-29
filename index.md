@@ -6,4 +6,4 @@ layout: default
 
 ## Still under maintenance
 
-testing link to another page [test]('./posts/test_post')
+testing link to another page [test](posts/test_post)
